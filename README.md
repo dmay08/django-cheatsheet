@@ -1,6 +1,6 @@
 # django-cheatsheet
 
-## How to create a new Django project
+## How to create a new Django project projectname
 ```bash
 django-admin startproject
 ```
